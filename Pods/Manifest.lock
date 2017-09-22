@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.5.0)
+  - Locksmith (3.0.0)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - Locksmith
+  - SDWebImage
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  Locksmith: 310b4cc5031af5728bf4db5d4de547a5100c6a3b
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: cbf1860b80a6d7e09bec8e185572ae37ab20ff33
+
+COCOAPODS: 1.2.1
