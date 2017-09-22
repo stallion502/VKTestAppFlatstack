@@ -1,14 +1,15 @@
 # VKTestAppFlatstack
-Test application for Flatstack company <br />
- ** Выполнено:**<br />
-  -pull to refresh <br />
-  -ленивая подгрузка изображений <br />
-  -logout <br />
-  -Возможность просмотра колажа изображений <br />
-  -Возможность детального просмотра фотографий <br />
-  -Количество лайков, репостов <br />
-  -Хорошо выглядит на устройствах iPhone 5-7 <br />
-  -Шифрование Токена <br />
+Test application for Flatstack company<br />
+
+ **Выполнено:**<br /
+  - pull to refresh <br />
+  - ленивая подгрузка изображений <br />
+  - logout <br />
+  - Возможность просмотра колажа изображений <br />
+  - Возможность детального просмотра фотографий <br />
+  - Количество лайков, репостов <br />
+  - Хорошо выглядит на устройствах iPhone 5-7 <br />
+  - Шифрование Токена <br />
   
   
 **Проблемы:**
@@ -17,7 +18,7 @@ Test application for Flatstack company <br />
   - Отсутствие индикатора загрузки
   
 **Использованные библиотеки:**<br />
-  -SwiftyJSON <br />
-  -Alamofire <br />
-  -Locksmith <br />
-  -SDWebImage
+  - SwiftyJSON <br />
+  - Alamofire <br />
+  - Locksmith <br />
+  - SDWebImage
