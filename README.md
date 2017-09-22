@@ -1,6 +1,6 @@
 # VKTestAppFlatstack
 Test application for Flatstack company <br />
-  Выполнено: <br />
+ ** Выполнено:**<br />
   -pull to refresh <br />
   -ленивая подгрузка изображений <br />
   -logout <br />
@@ -11,12 +11,12 @@ Test application for Flatstack company <br />
   -Шифрование Токена <br />
   
   
-Проблемы:
+**Проблемы:**
   - Редкие ошибки повторяющихся изображений
   - Отсутсвие воспроизведение медиафайлов, а также GIF
   - Отсутствие индикатора загрузки
   
-Использованные библиотеки: <br />
+**Использованные библиотеки:**<br />
   -SwiftyJSON <br />
   -Alamofire <br />
   -Locksmith <br />
