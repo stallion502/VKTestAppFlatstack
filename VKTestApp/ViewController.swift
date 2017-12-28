@@ -182,8 +182,10 @@ extension ViewController : UIWebViewDelegate {
             }
             webView.isHidden = true
             NetworkingService.shared.getNews(completionHandler: { [weak self] (feedData) in
+              DispatchQueue.main.async {
+                  self?.tableView.reloadData()
+              }
                 self?.feedData = feedData
-                self?.tableView.reloadData()
             })
         }
         
